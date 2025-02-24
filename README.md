@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm David Sayndee!
 
-<!--
-**davidsayndee/davidsayndee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+🔹 **Certifications:** Security+, A+, Google Cybersecurity Professional, AWS Solutions Architect, GCP Fundamentals  
+🔹 **Interests:** Cloud Security, DevOps, Solutions Architecture, Cloud Infrastructure  
+🔹 **Skills:** AWS | GCP | Azure | Terraform/Cloudformation| Linux | Networking | GitHub | IAM | Security  
 
-Here are some ideas to get you started:
+### 📌 What I'm Working On  
+- Preparing for Entry level to Mid-level Cloud jobs and learning new technologies
+- Building projects in AWS/GCP/Azure  
+- Learning more about Cloud Infra, DevOps & cloud automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect  
+🔗 (https://www.linkedin.com/in/david-s-sayndee/) | 🌍 (https://github.com/davidsayndee) | 📧 thepsalmist33@gmail.com 
+
+🚀 *Passionate about cloud infrastructure design, Cloud security & automation! Open to networking & opportunities!*
