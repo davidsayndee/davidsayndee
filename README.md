@@ -8,7 +8,7 @@ I am passionate about building secure, resilient, and efficient cloud architectu
 I am continuously expanding my knowledge and looking for opportunities to design innovative cloud solutions that drive business success. 
 
 ### 📌 What I'm Working On  
-- Preparing for Entry level to Mid-level Cloud jobs and learning new technologies
+- Preparing for adnvaced cloud certifications
 - Building projects in AWS/GCP/Azure  
 - Learning more about Cloud Infra, DevOps & cloud automation  
 
