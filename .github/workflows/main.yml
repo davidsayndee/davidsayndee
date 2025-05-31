@@ -1,10 +1,13 @@
-name: ibvstudio first Workflow
+name: ibvstudio First Workflow
 
 on: [push]
 
 jobs:
-  say-hello:
+  checkout-code:
     runs-on: ubuntu-latest
     steps:
-      - name: Print Hello
-        run: echo "Hello, ibv studio. Your project GitHub Action is running!"
+      - name: Checkout repository code
+        uses: actions/checkout@v3
+
+      - name: List files in repo
+        run: ls -la
