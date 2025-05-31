@@ -1,0 +1,10 @@
+name: ibvstudio first Workflow
+
+on: [push]
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hello
+        run: echo "Hello, ibv studio. Your project GitHub Action is running!"
