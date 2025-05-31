@@ -1,13 +1,20 @@
-name: ibvstudio First Workflow
+name: ibvstudio first workflow
 
 on: [push]
 
 jobs:
-  checkout-code:
+  explore-github-actions:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository code
-        uses: actions/checkout@v3
 
-      - name: List files in repo
-        run: ls -la
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Show Current Directory
+      run: pwd
+
+    - name: List Files in Project
+      run: ls -la
+
+    - name: Display Current Date and Time
+      run: date
