@@ -18,3 +18,9 @@ jobs:
 
     - name: Display Current Date and Time
       run: date
+
+    - name: Use an Environment Variable
+      run: echo "Hello, my name is $MY_NAME"
+      env:
+        MY_NAME: "David Sayndee, Jr."
+        MY_PASSION: "DevOps Cloud and Ministry"
