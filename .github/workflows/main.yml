@@ -21,7 +21,11 @@ jobs:
 
     - name: Use an Environment Variable
       run: echo "Hello, my name is $MY_NAME"
-           echo "I Love $MY_PASSION"
+           echo "I love $MY_PASSION"
       env:
-        MY_NAME: "David Sayndee, Jr."
+        MY_NAME: "David S. Sayndee"
         MY_PASSION: "DevOps Cloud and Ministry"
+
+    - name: Run Only on Main Branch
+      if: github.ref == 'refs/heads/main'
+      run: echo "This runs only on the main branch."
