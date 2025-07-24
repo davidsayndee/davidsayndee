@@ -1,42 +1,47 @@
-Hi, I'm David Sayndee!
+# 👋 Hi, I'm **David Sayndee**
 
+---
 
-About Me
-I’m a Cloud Engineer and Cybersecurity Enthusiast with a strong foundation in cloud infrastructure, IT support, and security. I hold multiple certifications including:
+### 🚀 About Me  
+I’m a **Cloud Engineer and Cybersecurity Enthusiast** with a strong foundation in **cloud infrastructure**, **IT support**, and **security**.
 
-✅ Security+
+I hold multiple certifications:
 
-✅ Google Cybersecurity Professional
+- ✅ **Security+**
+- ✅ **Google Cybersecurity Professional**
+- ✅ **CompTIA A+**
+- ✅ **AWS Cloud Practitioner & GCP Fundamentals**
 
-✅ CompTIA A+
+With experience in cloud operations and technical support, I’m currently building hands-on cybersecurity skills through platforms like **TryHackMe**, where I explore real-world attack simulations, threat detection, and the MITRE ATT&CK® framework.
 
-✅ AWS Cloud & GCP Fundamentals
+I’m passionate about **securing cloud environments**, **understanding adversarial behavior**, and applying that knowledge to help organizations build resilient systems.
 
-With experience in cloud operations and IT support, I’m now diving deep into hands-on cybersecurity training through platforms like TryHackMe, where I’m sharpening my skills in threat detection, MITRE ATT&CK®, incident response, and real-world attack simulation.
+---
 
-My passion lies in securing cloud environments, understanding adversarial behavior, and applying that knowledge to help organizations stay resilient and secure.
+### 💡 Core Skills & Tools
 
-💡 Core Skills & Tools
-🛠️ Cloud Platforms: AWS, GCP, Azure (learning)
+- ☁️ **Cloud Platforms**: AWS, GCP, Azure (in progress)  
+- 🔐 **Security Concepts**: IAM, MITRE ATT&CK, SOC operations (entry-level)  
+- 💻 **IT Support**: Windows/Linux, Help Desk, Ticketing Systems  
+- ⚙️ **DevOps Tools**: Terraform (IAC), CI/CD fundamentals, Cloud automation
 
-🔐 Security: IAM, MITRE ATT&CK, SOC tools (entry-level)
+---
 
-💻 IT Support: Help Desk, Windows/Linux, Ticketing Systems
+### 📌 What I’m Working On
 
-☁️ DevOps Concepts: Infrastructure as Code (Terraform), CI/CD, Cloud Automation
+- 🧠 Pivoting into **cybersecurity** with hands-on labs (TryHackMe, SOC, Blue Team)  
+- 📖 Documenting my **learning journey** here on GitHub  
+- 🎯 Gaining practical skills to transition into **SOC Analyst**, **Cloud Security**, or **Threat Intelligence** roles
 
-📌 What I’m Working On
-🎯 Pivoting into cybersecurity with hands-on labs (TryHackMe, Blue Team/Red Team paths)
+---
 
-💼 Documenting my learning journey through GitHub & blogs
+### 📫 Let’s Connect
 
-📚 Gaining practical skills to transition into a SOC Analyst, Cloud Security, or Cyber Threat role
+- 🔗 [LinkedIn](https://www.linkedin.com/in/david-s-sayndee/)  
+- 🌍 [GitHub](https://github.com/davidsayndee)  
+- 📧 thepsalmist33@gmail.com
 
-📫 Let’s Connect
-🔗 LinkedIn
-🌐 GitHub
-📧 thepsalmist33@gmail.com
+---
 
-🚀 Cloud-built. Security-driven. Purpose-led.
-Open to cybersecurity, cloud security, and IT roles — let’s grow together!
-
+🚀 *Cloud-built. Security-driven. Purpose-led.*  
+💼 *Open to cybersecurity, cloud security, and IT support opportunities!*
