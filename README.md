@@ -37,7 +37,7 @@ I’m passionate about **securing cloud environments**, **understanding adversar
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/david-s-sayndee/)  
+- 🔗 [LinkedIn](https://(https://www.linkedin.com/in/sohn-sayndee-ab3182355/)  
 - 🌍 [GitHub](https://github.com/davidsayndee)  
 - 📧 thepsalmist33@gmail.com
 
