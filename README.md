@@ -10,7 +10,7 @@ I hold multiple certifications:
 - ✅ **Security+**
 - ✅ **Google Cybersecurity Professional**
 - ✅ **CompTIA A+**
-- ✅ **AWS Cloud Practitioner & GCP Fundamentals**
+- ✅ **AWS SAA**
 
 With experience in cloud operations and technical support, I’m currently building hands-on cybersecurity skills through platforms like **TryHackMe**, where I explore real-world attack simulations, threat detection, and the MITRE ATT&CK® framework.
 
