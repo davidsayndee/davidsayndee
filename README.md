@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **David Sayndee**
+# Hi, I'm **David Sayndee**
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I’m a **Cloud Engineer and Cybersecurity Enthusiast** with a strong foundation in **cloud infrastructure**, **IT support**, and **security**.
 
 I hold multiple certifications:
