@@ -1,18 +1,40 @@
-# 👋 Hi, I'm David Sayndee!
+👋 Hi, I'm David Sayndee!
+🚀 About Me
+I’m a Cloud Engineer and Cybersecurity Enthusiast with a strong foundation in cloud infrastructure, IT support, and security. I hold multiple certifications including:
 
-### 🚀 About Me  
-I am a Cloud Engineer & Solutions Architect with a strong foundation in cloud computing, security, and infrastructure automation. I hold certifications including AWS Solutions Architect, Security+, A+, Google Cybersecurity Professional, and GCP Fundamentals. My expertise includes cloud security, DevOps, and designing scalable cloud solutions.
+✅ Security+
 
-I am passionate about building secure, resilient, and efficient cloud architectures while leveraging automation and best practices. My skills include AWS, GCP, Terraform, Linux, IAM, Networking, and CI/CD.
+✅ Google Cybersecurity Professional
 
-I am continuously expanding my knowledge and looking for opportunities to design innovative cloud solutions that drive business success. 
+✅ CompTIA A+
 
-### 📌 What I'm Working On  
-- Preparing for adnvaced cloud certifications
-- Building projects in AWS/GCP/Azure  
-- Learning more about Cloud Infra, DevOps & cloud automation  
+✅ AWS Cloud & GCP Fundamentals
 
-### 📫 Let's Connect  
-🔗 (https://www.linkedin.com/in/david-s-sayndee/) | 🌍 (https://github.com/davidsayndee) | 📧 thepsalmist33@gmail.com 
+With experience in cloud operations and IT support, I’m now diving deep into hands-on cybersecurity training through platforms like TryHackMe, where I’m sharpening my skills in threat detection, MITRE ATT&CK®, incident response, and real-world attack simulation.
 
-🚀 *Passionate about cloud infrastructure design, Cloud security & automation! Open to networking & opportunities!*
+My passion lies in securing cloud environments, understanding adversarial behavior, and applying that knowledge to help organizations stay resilient and secure.
+
+💡 Core Skills & Tools
+🛠️ Cloud Platforms: AWS, GCP, Azure (learning)
+
+🔐 Security: IAM, MITRE ATT&CK, SOC tools (entry-level)
+
+💻 IT Support: Help Desk, Windows/Linux, Ticketing Systems
+
+☁️ DevOps Concepts: Infrastructure as Code (Terraform), CI/CD, Cloud Automation
+
+📌 What I’m Working On
+🎯 Pivoting into cybersecurity with hands-on labs (TryHackMe, Blue Team/Red Team paths)
+
+💼 Documenting my learning journey through GitHub & blogs
+
+📚 Gaining practical skills to transition into a SOC Analyst, Cloud Security, or Cyber Threat role
+
+📫 Let’s Connect
+🔗 LinkedIn
+🌐 GitHub
+📧 thepsalmist33@gmail.com
+
+🚀 Cloud-built. Security-driven. Purpose-led.
+Open to cybersecurity, cloud security, and IT roles — let’s grow together!
+
